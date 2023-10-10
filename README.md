@@ -34,10 +34,10 @@
    <a href="https://www.linkedin.com/in/orinson-moreno-simiti-20596a238/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white">
     </a>
-    <a href="https://twitter.com/your-twitter-link">
+    <a href="https://twitter.com/Orinson_Moreno">
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/your-instagram-link">
+    <a href="https://instagram.com/_08ronaldo?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
     </a>
   </p>
